@@ -18,7 +18,7 @@ lineShowRealWidth = NO && avgWidth = NO
 ````
 会根据设置的showMaxCount 计算横线的宽度
 在item超过maxCount的时候 会在右侧出现阴影
- ![image](https://github.com/Loxe/TBJHorizontalMenuView/raw/master/gif/1.gif)
+ ![image](https://github.com/Loxe/XBHorizontalMenuView/raw/master/gif/1.gif)
  
 ## 模式2
 ````
@@ -27,7 +27,7 @@ lineShowRealWidth = YES && avgWidth = NO
 会根据设置的showMaxCount计算item的【最小宽度宽度】若是真实宽度大于此宽度会按照【真实宽度为准】 
 但是横线的宽度会按照当前item中文字的真实宽度显示
 在item超过maxCount的时候 会在右侧出现阴影
- ![image](https://github.com/Loxe/TBJHorizontalMenuView/raw/master/gif/2.gif)
+ ![image](https://github.com/Loxe/XBHorizontalMenuView/raw/master/gif/2.gif)
 
 ## 模式3
 ````
@@ -35,7 +35,7 @@ lineShowRealWidth = YES && avgWidth = YES
 ````
 会根据设置的showMaxCount计算item宽度 但是横线的宽度会按照当前item中文字的真实宽度显示
 在item超过maxCount的时候 会在右侧出现阴影
- ![image](https://github.com/Loxe/TBJHorizontalMenuView/raw/master/gif/3.gif)
+ ![image](https://github.com/Loxe/XBHorizontalMenuView/raw/master/gif/3.gif)
 
 ## 模式4
 ````
@@ -44,7 +44,7 @@ lineShowRealWidth = NO && avgWidth = YES
 会根据设置的showMaxCount计算item宽度 
 但是横线的宽度会按照当前item宽度显示 
 在item超过maxCount的时候 会在右侧出现阴影
- ![image](https://github.com/Loxe/TBJHorizontalMenuView/raw/master/gif/4.gif)
+ ![image](https://github.com/Loxe/XBHorizontalMenuView/raw/master/gif/4.gif)
  
 # 其他说明
 
